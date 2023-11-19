@@ -4,5 +4,5 @@
 
 ![Cover](https://github.com/NotAGanesh/THE-ULTIMATE-IRON-FARM/blob/main/Assets/Cover.png "Cover")
 <center><font>Check Out!</font></center>
-<a href="https://www.planetminecraft.com/project/iron-farm-5845479/"><img src="https://github.com/NotAGanesh/THE-ULTIMATE-IRON-FARM/blob/main/Assets/planet_minecraft.png?raw=true" alt="Planet Minecraft"</a>
+<a href="https://www.planetminecraft.com/project/iron-farm-5845479/"><img src="https://github.com/NotAGanesh/THE-ULTIMATE-IRON-FARM/blob/main/Assets/planet_minecraft.png?raw=true" alt="Planet Minecraft" style="width:350px;height:100px;"></a>
 
