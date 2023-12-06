@@ -1,0 +1,9 @@
+=================================================================================================
+v1.2.5                                 |  CHANGELOGS |              Last update seen: 06/12/2023
+=================================================================================================
+    
+-Now Support Latest Version Of Minecraft: Java Edition (1.20.3)
+-Copper Stair Replaced With Bamboo Stair (Due to Technical Reason)
+-Some Minimal Decoration Added
+
+=================================================================================================
