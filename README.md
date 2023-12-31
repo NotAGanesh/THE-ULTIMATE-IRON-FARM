@@ -6,3 +6,8 @@
 
 <a href="https://www.planetminecraft.com/project/iron-farm-5845479/"><img src="https://github.com/NotAGanesh/THE-ULTIMATE-IRON-FARM/blob/main/Assets/planet_minecraft.png?raw=true" alt="Planet Minecraft" style="width:100%;height:100%;"></a>
 
+# Change-logs
+- Now Support Latest Version Of Minecraft: Java Edition (1.20.4)
+- Copper Stair Replaced With Bamboo Stair (Due to Technical Reason)
+- Some Minimal Decoration Added
+- Custom Bossbar Added
