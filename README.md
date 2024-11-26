@@ -22,4 +22,4 @@
 </details>
 <hr>
 
-**_Minecraft: Java Edition (1.20.4) Supported_**
+**_Minecraft: Java Edition (1.20.4 or above) Supported_**
